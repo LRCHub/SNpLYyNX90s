@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "AIシテ！きりたん",
+  "base_artist": "OSTER project",
+  "createdAt": "2026-02-22T08:25:57.498838Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AIシテ!きりたん",
+      "artist": "OSTER project",
+      "has_synced": false,
+      "path": "select/pl_01_AIシテ!きりたん_OSTER_project.txt"
+    }
+  ]
+}
